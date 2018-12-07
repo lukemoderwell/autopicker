@@ -1,5 +1,5 @@
 # autopicker
-The original hotfix helper.
+The original hotfix helper 🍒.
 
 ## Setup
 
